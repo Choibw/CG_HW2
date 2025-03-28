@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include "Ray.h"
 
 class Camera {
