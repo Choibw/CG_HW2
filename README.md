@@ -25,4 +25,4 @@ Q3.cpp
 ** 전 과제 제출물에서 인코딩 문제로 빌드가 안되는 문제를 뒤늦게 발견하였습니다. 
 문제를 해결하였으나 혹시 빌드가 안된다면 깨진 파일을 (Save documents as UTF-8 with signature) 로 다른이름으로 저장하여 실행해주시기 바랍니다. **
 
-OpenGL Turotial, ChatGPT 참고했습니다.
+OpenGL Tutorial, ChatGPT 참고했습니다.
